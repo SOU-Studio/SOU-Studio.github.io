@@ -1,0 +1,27 @@
+{
+  "name": "THEONOE · Oracle of Eclipse",
+  "symbol": "THEONOE",
+  "description": "A dual-aspect card back from THEONOE's founding collectible campaign. Ownership unlocks Oracle of Eclipse inside the game.",
+  "image": "https://sou-studio.github.io/theonoe/collectibles/oracle-of-eclipse/card-back-light.png",
+  "external_url": "https://sou-studio.github.io/theonoe/",
+  "attributes": [
+    { "trait_type": "Asset Type", "value": "Card Back" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Campaign", "value": "Founding Collectible" },
+    { "trait_type": "Light Aspect", "value": "White" },
+    { "trait_type": "Reversal Aspect", "value": "Black" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://sou-studio.github.io/theonoe/collectibles/oracle-of-eclipse/card-back-light.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://sou-studio.github.io/theonoe/collectibles/oracle-of-eclipse/card-back-reversal.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

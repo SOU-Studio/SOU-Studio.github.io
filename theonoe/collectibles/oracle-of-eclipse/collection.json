@@ -1,0 +1,20 @@
+{
+  "name": "THEONOE · Founding Collection",
+  "symbol": "THEONOE",
+  "description": "The founding collection of verifiable cosmetic assets for THEONOE on Solana.",
+  "image": "https://sou-studio.github.io/theonoe/collectibles/oracle-of-eclipse/card-back-light.png",
+  "external_url": "https://sou-studio.github.io/theonoe/",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Founding Collection" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://sou-studio.github.io/theonoe/collectibles/oracle-of-eclipse/card-back-light.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
