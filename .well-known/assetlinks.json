@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.theonoe.mobile",
+      "sha256_cert_fingerprints": [
+        "3D:B9:76:4D:55:7D:CE:F5:2B:EE:C6:67:91:6C:53:21:1D:2B:26:83:BE:A2:FB:95:38:77:94:29:91:25:0D:91"
+      ]
+    }
+  }
+]
